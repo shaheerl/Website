@@ -5,4 +5,4 @@ It features my resume, a small section where I introduce myself, and a section t
 
 Here is the Home screen:
 
-![Website Home Screen](https://github.com/shaheerl/My-Website/blob/main/website_homescreen.png)
+![Website Home Screen](https://github.com/shaheerl/Website/blob/master/images/website_homescreen.png)
